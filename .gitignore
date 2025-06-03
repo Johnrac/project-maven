@@ -19,3 +19,5 @@ target/
 .repository/
 *.iml
 *.iws
+repos/com/javarush/desktop-game-engine/maven-metadata-local.xml
+repos/com/javarush/desktop-game-engine/1.0/_remote.repositories
